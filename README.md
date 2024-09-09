@@ -1,4 +1,4 @@
-# Tomarketoi
+# Airdrop Santuy
 
 Auto Claim for tomarket Telegram Bot
 
