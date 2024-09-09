@@ -1,4 +1,4 @@
-# Tomarketod
+# Tomarketoi
 
 Auto Claim for tomarket Telegram Bot
 
