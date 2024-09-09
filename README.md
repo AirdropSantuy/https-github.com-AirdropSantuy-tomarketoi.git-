@@ -121,7 +121,7 @@ All Risks are borne by the user!
 
 3. goto tomarketod directory
    ```
-   cd tomarketod
+   cd tomarketoi
    ```
 
 4. install the require library
