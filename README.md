@@ -4,7 +4,7 @@ Auto Claim for tomarket Telegram Bot
 
 # Table of Contents
 
-- [Tomarketod](#tomarketoi)
+- [Tomarketoi](#airdropsantuy)
 - [Table of Contents](#table-of-contents)
 - [Warning](#warning)
 - [Features](#features)
